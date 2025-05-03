@@ -1,0 +1,27 @@
+body {
+    background-color: #1e1e2f;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #ff79c6;
+}
+
+p {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.fotos img {
+    width: 200px;
+    margin: 10px;
+    border-radius: 15px;
+    box-shadow: 0 0 15px #ff79c6;
+}
+
+audio {
+    margin-top: 20px;
+}
